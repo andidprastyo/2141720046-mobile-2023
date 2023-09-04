@@ -1,5 +1,4 @@
 # Mata Kuliah Pemrograman Mobile 2023
-<hr>
 
 - **Nama  :** Andi Dwi Prastyo
 - **NIM   :** 2141720046
