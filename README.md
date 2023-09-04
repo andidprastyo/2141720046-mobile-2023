@@ -1,16 +1,16 @@
 # Mata Kuliah Pemrograman Mobile 2023
 <hr>
 
-## Nama : Andi Dwi Prastyo
-## NIM  : 2141720046
-
-Repositori ini berisi tentang materi perkuliahan untuk mata kuliah Pemrograman Mobile
+- **Nama  :** Andi Dwi Prastyo
+- **NIM   :** 2141720046
+- **Kelas :** TI-3H
+- **Absen :** 09 
 
 Selamat datang di mata kuliah Pemrograman Mobile 2023! Mata kuliah ini akan membahas pengembangan aplikasi mobile menggunakan Flutter, sebuah framework UI yang sangat populer untuk membuat aplikasi lintas platform.
 
 ## Deskripsi Mata Kuliah
 
-- **Nama Mata Kuliah:** Pemrograman Mobile dengan Flutter
+- **Nama Mata Kuliah:** Pemrograman Mobile
 - **Semester:** [Semester 5]
 
 ## Prasyarat
