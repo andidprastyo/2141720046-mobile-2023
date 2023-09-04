@@ -4,7 +4,7 @@
 - **Nama  :** Andi Dwi Prastyo
 - **NIM   :** 2141720046
 - **Kelas :** TI-3H
-- **Absen :** 09 
+- **Absen :** 06 
 
 Selamat datang di mata kuliah Pemrograman Mobile 2023! Mata kuliah ini akan membahas pengembangan aplikasi mobile menggunakan Flutter, sebuah framework UI yang sangat populer untuk membuat aplikasi lintas platform.
 
