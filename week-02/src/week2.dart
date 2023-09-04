@@ -1,4 +1,10 @@
 void main() {
+
+  // Soal 1
+  for (int i = 18; i >= 9; i--) {
+    print('Nama saya adalah Fulan, sekarang berumur ${i}');
+  }
+  
   // Older version of Null Safety will results in Error, example:
   // int newAngka = null;
   // print(newAngka);
