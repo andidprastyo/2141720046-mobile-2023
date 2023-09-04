@@ -2,7 +2,7 @@
 
 *Soal 1* 
 Memodifikasi baris untuk menghasilkan output yang diinginkan
-![image](./docs/img/soal1.png)
+![image](./docs/soal1.png)
 
 *Soal 2*
 Mengapa sangat penting untuk memahami bahasa pemrograman Dart sebelum kita menggunakan framework Flutter ? Jelaskan!
