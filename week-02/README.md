@@ -1,5 +1,10 @@
 # Week 02 - Introduction to Dart
 
+* Nama : * Andi Dwi Prastyo
+* NIM : * 2141720046
+* Kelas : * TI-3H
+* Absen : * 06
+
 ### Soal 1
 
 Memodifikasi baris untuk menghasilkan output yang diinginkan
@@ -12,6 +17,13 @@ Memahami bahasa pemrograman dart sebelum menggunakan framework flutter sangat pe
 
 ### Soal 3
 Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
+
+**Getting Started with Dart : **
+    Productive tooling: Alat analisis kode, plugin IDE, dan ekosistem paket besar.
+    Garbage collection: Mengelola dealokasi memori, terutama untuk objek yang tidak digunakan.
+    Type annotations (opsional): Keamanan dan konsistensi data aplikasi.
+    Statically typed: Dart aman berkat type-safe dan type inference.
+    Portability: Dart dapat dikompilasi ke JavaScript, ARM, dan x86.
 
 ### Soal 4
 Buatlah slide yang berisi penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan Late variabel ! (Khusus soal ini kelompok berupa link google slide)
