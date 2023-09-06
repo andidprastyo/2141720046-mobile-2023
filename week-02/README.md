@@ -25,7 +25,7 @@ Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gun
     - **Statically typed:** Dart aman berkat type-safe dan type inference.<br>
     - **Portability:** Dart dapat dikompilasi ke JavaScript, ARM, dan x86.<br>
 
-**Dart Syntax :**
+**Dart Syntax :**<br>
     - Awalnya berfokus pada web, sekarang fokus pada mobile development dengan Flutter.<br>
     - Tujuan utama Dart adalah menggantikan JavaScript untuk meningkatkan ketahanan.<br>
     - Dart menawarkan performa terbaik dan alat modern untuk proyek berskala besar.<br>
@@ -33,19 +33,19 @@ Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gun
 
 **Dalam eksekusi kode Dart, terdapat dua mode utama, yaitu:**
 
-**Kompilasi Just-In-Time (JIT):**
+**Kompilasi Just-In-Time (JIT):**<br>
         Kode sumber dikompilasi sesuai kebutuhan, artinya saat dibutuhkan (Just in time).
         Dart VM memuat dan mengkompilasi kode sumber menjadi kode mesin asli (native) saat program dijalankan.
         Digunakan untuk menjalankan kode pada command line atau selama proses pengembangan aplikasi mobile.
         Fitur-fitur seperti debugging dan hot reload tersedia dalam mode ini, sangat membantu dalam pengembangan.
 
-**Kompilasi Ahead-Of-Time (AOT):**
+**Kompilasi Ahead-Of-Time (AOT):**<br>
         Kode Dart dan Dart VM dikompilasi sebelumnya sebelum aplikasi dijalankan.
         Dart VM berperan lebih seperti sistem runtime Dart, menyediakan garbage collector dan metode-metode native dari Dart SDK.
         Mode ini memberikan keuntungan performa yang signifikan dibandingkan dengan kompilasi JIT karena kode sudah dalam bentuk native.
         Namun, fitur-fitur seperti debugging dan hot reload tidak tersedia dalam mode ini.
 
-**Introducing the structure of the Dart language:**
+**Introducing the structure of the Dart language:**<br>
 	- Bahasa OOP didasarkan pada konsep objek yang menyimpan kedua data (disebut fields) dan kode (disebut methods).<br>
 	- Operator tidak lebih dari method yang didefinisikan dalam class dengan sintaks khusus<br>
 	- Operator penambahan dan pengurangan juga merupakan operator umum dan diimplementasikan pada angka<br>
