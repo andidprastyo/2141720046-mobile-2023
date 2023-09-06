@@ -1,8 +1,8 @@
 # Week 02 - Introduction to Dart
 
-*Nama :* Andi Dwi Prastyo
-*NIM :* 2141720046
-*Kelas :* TI-3H
+*Nama :* Andi Dwi Prastyo<br>
+*NIM :* 2141720046<br>
+*Kelas :* TI-3H<br>
 *Absen :* 06
 
 ### Soal 1
