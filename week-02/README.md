@@ -18,18 +18,18 @@ Memahami bahasa pemrograman dart sebelum menggunakan framework flutter sangat pe
 ### Soal 3
 Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
 
-**Getting Started with Dart :**
-    - **Productive tooling:** Alat analisis kode, plugin IDE, dan ekosistem paket besar.
-    - **Garbage collection:** Mengelola dealokasi memori, terutama untuk objek yang tidak digunakan.
-    - **Type annotations (opsional):** Keamanan dan konsistensi data aplikasi.
-    - **Statically typed:** Dart aman berkat type-safe dan type inference.
-    - **Portability:** Dart dapat dikompilasi ke JavaScript, ARM, dan x86.
+**Getting Started with Dart :**<br>
+    - **Productive tooling:** Alat analisis kode, plugin IDE, dan ekosistem paket besar.<br>
+    - **Garbage collection:** Mengelola dealokasi memori, terutama untuk objek yang tidak digunakan.<br>
+    - **Type annotations (opsional):** Keamanan dan konsistensi data aplikasi.<br>
+    - **Statically typed:** Dart aman berkat type-safe dan type inference.<br>
+    - **Portability:** Dart dapat dikompilasi ke JavaScript, ARM, dan x86.<br>
 
 **Dart Syntax :**
-    - Awalnya berfokus pada web, sekarang fokus pada mobile development dengan Flutter.
-    - Tujuan utama Dart adalah menggantikan JavaScript untuk meningkatkan ketahanan.
-    - Dart menawarkan performa terbaik dan alat modern untuk proyek berskala besar.
-    - Dart dirancang agar kuat dan fleksibel dengan type annotations opsional dan fitur OOP.
+    - Awalnya berfokus pada web, sekarang fokus pada mobile development dengan Flutter.<br>
+    - Tujuan utama Dart adalah menggantikan JavaScript untuk meningkatkan ketahanan.<br>
+    - Dart menawarkan performa terbaik dan alat modern untuk proyek berskala besar.<br>
+    - Dart dirancang agar kuat dan fleksibel dengan type annotations opsional dan fitur OOP.<br>
 
 **Dalam eksekusi kode Dart, terdapat dua mode utama, yaitu:**
 
@@ -45,6 +45,10 @@ Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gun
         Mode ini memberikan keuntungan performa yang signifikan dibandingkan dengan kompilasi JIT karena kode sudah dalam bentuk native.
         Namun, fitur-fitur seperti debugging dan hot reload tidak tersedia dalam mode ini.
 
+**Introducing the structure of the Dart language:**
+	- Bahasa OOP didasarkan pada konsep objek yang menyimpan kedua data (disebut fields) dan kode (disebut methods).<br>
+	- Operator tidak lebih dari method yang didefinisikan dalam class dengan sintaks khusus<br>
+	- Operator penambahan dan pengurangan juga merupakan operator umum dan diimplementasikan pada angka<br>
 ### Soal 4
 Buatlah slide yang berisi penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan Late variabel ! (Khusus soal ini kelompok berupa link google slide)
 
