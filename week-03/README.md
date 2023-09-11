@@ -36,3 +36,19 @@ Kemudian langkah berikutnya yaitu menggunakan perulangan do-while, berikut adala
 ![image](./docs/img/p2l3.png)
 
 Karena nilai 'Counter' diubah, maka output akan dimulai dari nilai 'Counter' yang sudah diinisialisasikan sampai ke 76, karena ada pengkondisiian yaitu kurang dari 77.
+
+### Praktikum 3
+
+Kode program akan mengalami error karena variabel 'index' belum diinisialisasi, kita hanya perlu menambahkan variabel integer dalam perulangan for dan pada bagian terakhir, tambahkan increment pada variabel index agar outputnya menjadi seperti berikut:
+
+![image](./docs/img/p3l2.png)
+
+Kemudian pada langkah berikutnya, kita akan mengubah kode program menjadi seperti berikut:
+
+![image](./docs/img/p3l3.png)
+
+Pada kode program tersebut tidak memunculkan output apapun, karena perulangan akan berhenti di index 21 dan pada kode tersebut tidak ada output yang akan ditampilkan karena perintah print ada di paling akhir program sehingga perulangan sudah berhenti terlebih dahulu.
+
+Untuk melihat bagaimana program bekerja dengan benar, kita bisa memodifikasi kodenya seperti berikut ini: 
+
+![image](./docs/img/p3l3_fixed.png)
