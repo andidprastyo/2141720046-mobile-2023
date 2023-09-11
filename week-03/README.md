@@ -5,7 +5,7 @@
 **Kelas :** TI-3H<br>
 **Absen :** 06
 
-## Praktikum
+## Tugas Nomer 1
 
 ### Praktikum 1 
 
@@ -52,3 +52,9 @@ Pada kode program tersebut tidak memunculkan output apapun, karena perulangan ak
 Untuk melihat bagaimana program bekerja dengan benar, kita bisa memodifikasi kodenya seperti berikut ini: 
 
 ![image](./docs/img/p3l3_fixed.png)
+
+## Tugas Nomer 2
+
+Pada tugas nomer 2 ini, kita akan membuat sebuah program yang akan menampilkan bilangan prima dari 0 sampai 201 dan apabila bilangan tersebut merupakan bilangan prima maka akan menampilkan angka tersebut dan juga nama dan NIM, berikut kode program dan outputnya :
+
+![image](./docs/img/prime_numbers.png)
