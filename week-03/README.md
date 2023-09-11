@@ -8,8 +8,10 @@
 ## Praktikum
 
 ### Praktikum 1 
-Outputnya adalah sebagai berikut :
+
 Karena nilai variable test adalah 'test2' maka output pertama adalah 'Test2', kemudian di kode program paling bawah terdapat kondisi if yang mana jika nilai variable 'test' adalah 'test2' maka outputnya adalah 'Test2 again'.
+
+Outputnya adalah sebagai berikut :
 
 ![image](./docs/img/p1l1.png)
 
