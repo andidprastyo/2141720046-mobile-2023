@@ -19,7 +19,7 @@ bool bilPrima(int num) {
 }
 
 void main() {
-  for (int i = 1; i <= 201; i++) {
+  for (int i = 0; i <= 201; i++) {
     if (bilPrima(i)) {
       print('$i Andi, 2141720046');
     } else {
