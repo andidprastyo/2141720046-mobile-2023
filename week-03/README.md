@@ -22,3 +22,17 @@ Error terjadi karena variabel yang bertipe string tidak bisa digunakan pada vari
 
 Untuk solusi dari error tersebut adalah dengan menambahkan tanda sama dengan dua kali pada pengkondisian, outputnya pun berupa 'Kebenaran', bisa dilihat di kode program berikut ini:
 ![image](./docs/img/p1l3_fixed.png)
+
+### Praktikum 2
+
+Terjadi error pada kode program berikut ini dikarenakan variabel 'counter' belum diinisialisasi, sehingga tidak bisa digunakan pada pengkondisian. Untuk mengatasinya, maka variabel 'counter' harus diinisialisasi terlebih dahulu. Berikut adalah kode program beserta outputnya:
+
+![image](./docs/img/p2l2.png)
+
+Karena nilai 'Counter' adalah 20, maka output akan dimulai dari angka 20 sampai ke 32, karena kondisi di dalam while adalah kurang dari 33.
+
+Kemudian langkah berikutnya yaitu menggunakan perulangan do-while, berikut adalah kode programnya beserta outputnya:
+
+![image](./docs/img/p2l3.png)
+
+Karena nilai 'Counter' diubah, maka output akan dimulai dari nilai 'Counter' yang sudah diinisialisasikan sampai ke 76, karena ada pengkondisiian yaitu kurang dari 77.
