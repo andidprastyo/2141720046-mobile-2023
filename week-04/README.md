@@ -10,3 +10,7 @@
 ### Praktikum 1
 
 ![image](./docs/img/p1.png)
+
+### Praktikum 2
+
+![image](./docs/img/p2.png)
