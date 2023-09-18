@@ -70,32 +70,66 @@ void main() {
 
   // Praktikum 4 - Spread & Control Flow Operators
 
+  // // Step 1
+  // var list = [1, 2, 3];
+  // var list2 = [0, ...list];
+  // print(list);
+  // print(list2);
+  // print(list2.length);
+
+  // // Step 3
+  // var list1 = [1, 2, null];
+  // print(list1);
+  // var list3 = [2141720046 , ...list1];
+  // print(list3);
+
+  // // Step 4
+  // var nav = ['Home', 'Furniture', 'Plants', if (false) 'Outlet'];
+  // print(nav);
+
+  // // Step 5
+  // var login = 'manager';
+  // var nav2 = ['Home', 'Furniture', 'Plants', if (login case 'manager') 'Inventory'];
+  // print('nav2: $nav2');
+
+  // // Step 6
+
+  // var listOfInts = [1, 2, 3];
+  // var listOfStrings = ['#0', for (var i in listOfInts) '#$i'];
+  // assert (listOfStrings[1] == '#1');
+  // print(listOfStrings);
+
+  // Praktikum 5 - Records
+
   // Step 1
-  var list = [1, 2, 3];
-  var list2 = [0, ...list];
-  print(list);
-  print(list2);
-  print(list2.length);
+
+  var record = ('first', a: 2, b: true, 'last');
+  print(record);
 
   // Step 3
-  var list1 = [1, 2, null];
-  print(list1);
-  var list3 = [2141720046 , ...list1];
-  print(list3);
+
+  var record2 = (1, 2);
+  print(tukar(record2));
 
   // Step 4
-  var nav = ['Home', 'Furniture', 'Plants', if (false) 'Outlet'];
-  print(nav);
+
+  (String, int) mahasiswa = ('Andi Dwi Prastyo', 2141720046);
+
+  print(mahasiswa);
 
   // Step 5
-  var login = 'manager';
-  var nav2 = ['Home', 'Furniture', 'Plants', if (login case 'manager') 'Inventory'];
-  print('nav2: $nav2');
 
-  // Step 6
+  var mahasiswa2 = ('first', a: 2, b: true, 'last');
 
-  var listOfInts = [1, 2, 3];
-  var listOfStrings = ['#0', for (var i in listOfInts) '#$i'];
-  assert (listOfStrings[1] == '#1');
-  print(listOfStrings);
+  print(mahasiswa2.$1);
+  print(mahasiswa2.a);
+  print(mahasiswa2.b);
+  print(mahasiswa2.$2);
+}
+
+// Step 3
+
+(int, int) tukar((int, int) record) {
+  var (a, b) = record;
+  return (b, a);
 }
