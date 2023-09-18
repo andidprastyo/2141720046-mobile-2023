@@ -29,9 +29,10 @@ void main() {
 
   var names1 = <String>{};
   Set<String> names2 = {};
-  var names3 = {}; // This is a map, not a set.
+
+  names1.add('Nama: Andi Dwi Prastyo, NIM:2141720046');
+  names2.addAll(['Nama: Bagus Rezky Adhyaksa, NIM:2141720210']);
 
   print(names1);
   print(names2);
-  print(names3);
 }
