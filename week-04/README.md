@@ -9,4 +9,4 @@
 
 ### Praktikum 1
 
-![image](./docs/img/p11.png)
+![image](./docs/img/p1.png)
