@@ -68,3 +68,7 @@ Records merupakan struktur data yang digunakan untuk menyimpan informasi yang te
 Kemudian memanggil fungsi tersebut di `Main()` dan mengisi nilai yang akan ditukar.
 
 ![image](./docs/img/p5.png)
+
+## Tugas Nomer 2
+
+Functions dalam dart adalah sebuah blok kode yang akan dijalankan ketika dipanggil. Function dapat digunakan untuk mengelompokkan kode sehingga lebih mudah dibaca dan digunakan kembali.
