@@ -1,0 +1,42 @@
+# Week 05 - Flutter Fundamental Part 1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
+## Praktikum 1 
+
+### Langkah 1
+
+Pertama kita akan membuat project flutter di VSCode menggunakan extension yang tersedia, cukup mengetik `Ctrl+Shift+P` lalu pilih 'Flutter: New Project'.
+
+![image](./docs/p1l1.png)
+
+### Langkah 2
+
+Kemudian kita akan memilih folder untuk menyimpan project flutter yang akan dibuat.
+
+![image](./docs/p1l2.png)
+
+### Langkah 3
+
+Setelah itu kita akan memilih nama project flutter yang akan dibuat. Disini saya menggunakan nama `hello_world`.
+
+![image](./docs/p1l3.png)
+
+### Langkah 4
+
+Projek `hello_world`pun berhasil dibuat dan kita akan melihat struktur folder yang telah dibuat.
+
+![image](./docs/p1l4.png)
