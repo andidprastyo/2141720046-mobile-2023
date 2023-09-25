@@ -48,4 +48,24 @@ Projek `hello_world`pun berhasil dibuat dan kita akan melihat struktur folder ya
 Pertama pastikan kita berada pada direktori project flutter yang telah dibuat, lalu ketikkan perintah `flutter run` pada terminal.
 
 ![image](./docs/p2.png)
-![image](./docs/p2l1.png)
+![image](./docs/p2l1.jpeg)
+
+## Praktikum 3
+
+### Membuat dan Menjalankan Text Widget
+
+Pertama kita akan membuat sebuah text widget yang akan menampilkan pesan `Nama saya Andi, sedang belajar Pemrograman Mobile` pada aplikasi flutter yang telah dibuat.
+
+Kemudian kita akan menjalankan aplikasi flutter yang telah dibuat dengan mengetikkan perintah `flutter run` pada terminal.
+
+![image](./docs/p3l1.png)
+
+### Membuat dan Menjalankan Image Widget
+
+Pertama kita akan membuat sebuah image widget yang akan menampilkan gambar `logo_polinema.jpeg` pada aplikasi flutter yang telah dibuat.
+
+Kemudian kita akan menjalankan aplikasi flutter yang telah dibuat dengan mengetikkan perintah `flutter run` pada terminal.
+
+![image](./docs/p3l2.png)
+
+
