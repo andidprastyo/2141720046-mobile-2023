@@ -58,7 +58,7 @@ Pertama kita akan membuat sebuah text widget yang akan menampilkan pesan `Nama s
 
 Kemudian kita akan menjalankan aplikasi flutter yang telah dibuat dengan mengetikkan perintah `flutter run` pada terminal.
 
-![image](./docs/p3l1.png)
+![image](./docs/p3l1.jpeg)
 
 ### Membuat dan Menjalankan Image Widget
 
@@ -66,6 +66,6 @@ Pertama kita akan membuat sebuah image widget yang akan menampilkan gambar `logo
 
 Kemudian kita akan menjalankan aplikasi flutter yang telah dibuat dengan mengetikkan perintah `flutter run` pada terminal.
 
-![image](./docs/p3l2.png)
+![image](./docs/p3l2.jpeg)
 
 
