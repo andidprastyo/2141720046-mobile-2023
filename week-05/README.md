@@ -48,3 +48,4 @@ Projek `hello_world`pun berhasil dibuat dan kita akan melihat struktur folder ya
 Pertama pastikan kita berada pada direktori project flutter yang telah dibuat, lalu ketikkan perintah `flutter run` pada terminal.
 
 ![image](./docs/p2.png)
+![image](./docs/p2l1.png)
