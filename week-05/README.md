@@ -40,3 +40,11 @@ Setelah itu kita akan memilih nama project flutter yang akan dibuat. Disini saya
 Projek `hello_world`pun berhasil dibuat dan kita akan melihat struktur folder yang telah dibuat.
 
 ![image](./docs/p1l4.png)
+
+## Praktikum 2
+
+### Melakukan Flutter run pada project flutter
+
+Pertama pastikan kita berada pada direktori project flutter yang telah dibuat, lalu ketikkan perintah `flutter run` pada terminal.
+
+![image](./docs/p2.png)
