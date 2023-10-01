@@ -129,6 +129,8 @@ class FabWidget extends StatelessWidget{
 
 ### Langkah 3 : Scaffold Widget
 
+![image](./docs/p4l3.png)
+
 ```dart
 import 'package:flutter/material.dart';
 
@@ -208,6 +210,8 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ### Langkah 4 : Dialog Widget
 
+![image](./docs/p4l4.png)
+
 ```dart
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
@@ -269,6 +273,9 @@ showAlertDialog(BuildContext context) {
 
 ### Langkah 5 : Input and Selection Widget
 
+![image](./docs/p4l5.png)
+
+
 ```dart
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
@@ -292,6 +299,9 @@ class MyApp extends StatelessWidget {
 ```
 
 ### Langkah 6 : Date and Time Pickers
+
+![image](./docs/p4l6.png)
+
 
 ```dart
 import 'dart:async';
