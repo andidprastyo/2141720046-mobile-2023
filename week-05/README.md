@@ -379,6 +379,9 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 ```
 
+## Tugas 
+
+![image](./docs/tugas.png)
 
 
 
