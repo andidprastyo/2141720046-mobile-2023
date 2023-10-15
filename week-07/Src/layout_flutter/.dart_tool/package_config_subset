@@ -18,10 +18,6 @@ collection
 2.18
 file:///home/ubuntu/.pub-cache/hosted/pub.dev/collection-1.17.2/
 file:///home/ubuntu/.pub-cache/hosted/pub.dev/collection-1.17.2/lib/
-cupertino_icons
-2.19
-file:///home/ubuntu/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6/
-file:///home/ubuntu/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6/lib/
 fake_async
 2.12
 file:///home/ubuntu/.pub-cache/hosted/pub.dev/fake_async-1.3.1/
@@ -94,8 +90,8 @@ flutter_test
 3.0
 file:///home/ubuntu/Android/flutter/packages/flutter_test/
 file:///home/ubuntu/Android/flutter/packages/flutter_test/lib/
-layout_flutter
-3.1
+week_7
+3.0
 file:///home/ubuntu/Documents/GitHub/2141720046-mobile-2023/week-07/Src/layout_flutter/
 file:///home/ubuntu/Documents/GitHub/2141720046-mobile-2023/week-07/Src/layout_flutter/lib/
 2
