@@ -1,6 +1,3 @@
-# Bagus Rezky Adhyaksa
-# 2141720210
-
 # Tugas 1
 ## Praktikum 1 TitleSection
 
