@@ -23,4 +23,8 @@ class ColorSteam {
     );
   }
 
+  static getColors() {
+    return ColorSteam().stream;
+  }
+
 }
