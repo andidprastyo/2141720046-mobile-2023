@@ -1,6 +1,6 @@
 {
-    "name": "steam_andi",
-    "short_name": "steam_andi",
+    "name": "stream_andi",
+    "short_name": "stream_andi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
