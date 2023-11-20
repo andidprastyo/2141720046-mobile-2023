@@ -13,4 +13,14 @@ class ColorSteam {
     Colors.pink,
     Colors.purple,
   ];
+
+  Stream<Color> get stream async* {
+    yield* Stream.periodic(
+      const Duration(seconds: 1), (int t){
+        int index = t % colors.length;
+        return colors[index];
+      }
+    );
+  }
+
 }
